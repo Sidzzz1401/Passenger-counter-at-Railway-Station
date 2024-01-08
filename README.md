@@ -8,7 +8,7 @@ Increment and decrement buttons to adjust the passenger count.
 Clear button to reset the count to zero.
 Simple and user-friendly interface.
 
-**Technologies Used**
+**Technologies Used : **
 HTML5
 CSS3
 JavaScript
